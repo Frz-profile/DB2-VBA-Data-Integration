@@ -1,3 +1,2 @@
-# DB2-VBA-Data-Integration
-IBM DB2 SQL Client Data Integration System
+# IBM DB2 SQL Client Data Integration System
 The IBM DB2 SQL Client Data Integration System is designed to streamline the process of retrieving and managing client information within an organization. This project features a robust class module that establishes secure connections to IBM DB2 databases, executes SQL queries, and automates the extraction and transformation of client data. By leveraging VBA and ADODB, DB2-SQL CDIS eliminates the need for manual input by users, specifically removing the manual process of copying client information from IBM iAccess Client Solutions to generate letters in Microsoft Word. This system enhances operational efficiency, reduces errors, and ensures seamless integration of client data into required business processes.
